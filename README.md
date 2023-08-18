@@ -29,11 +29,70 @@
     <a href="https://github.com/alexcambose/alexcambose" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alexcambose/alexcambose?label=profile%20updated&style=flat-square"></a>
 </p>
   
-I'm a versatile software engineer with over 6 years of experience, skilled in both front-end and back-end development, with a deep understanding of finance, web3, and blockchain. From building, launching, and maintaining projects, to taking on roles as mentor, architect, and team lead, I've mastered a tech stack including React, Next.js, Node.js, NestJS, Web3, and more. I thrive on pushing boundaries, embracing new challenges, and constantly learning to stay ahead of tech, web3, and finance trends.
+I'm a versatile software engineer with over **6 years** of experience, skilled in both **front-end** and **back-end** development, with a deep understanding of finance, **web3**, and blockchain. From building, launching, and maintaining projects, to taking on roles as mentor, architect, and team lead, I've mastered a tech stack including React, Next.js, Node.js, NestJS, Web3, and more. 
 
-- 📫 How to reach me: alexcambose1@gmail.com
+I thrive on pushing boundaries, embracing new challenges, and constantly learning to stay ahead of tech, web3, and finance trends.
+
+## 🔥 About me
+* 👨‍💻 6+ years of hands-on experience as a software engineer.
+* 🛠️ Taken on roles as frontend developer, backend developer, mentor, and architect.
+* 🚀 Successfully developed, launched, and maintained numerous projects from scratch.
+* 🖥️ Proficient in frontend technologies: TypeScript/JavaScript, React, Next.js, Redux, Webpack, SCSS, Styled Components, Tailwind CSS, and more.
+* 🌐 Skilled in backend technologies: Node.js, NestJS, Express, PostgreSQL, AWS, Redis, Kafka, GraphQL, and more.
+* ⛓️ Comprehensive experience in 🦄 Web3 technology, blockchain concepts, dApps, smart contracts, and integrating blockchain systems.
+* 📱 Experience with mobile development: React Native, Redux, React Navigation, Expo.
+* 💡 Passionate about solving intricate challenges in finance, web3, and blockchain sectors.
+* 🚀 Strong drive to push boundaries, embrace new challenges, and constantly learn.
+* 🤝 Team-oriented and open to collaboration.
+* 📨 Contact: alexcambose1@gmail.com
+* 📅 Calendly: https://calendly.com/alexcambose
 
 ## 🔧 Technologies & Tools
+The technologies I'm proficient with:
+
+<table><tr><td valign="top">
+
+### Frontend  
+
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=ts,react,next,redux,styledcomponents,html,css,scss,tailwind,vue,vercel,d3,bootstrap,webpack,figma&perline=5">
+
+</td><td valign="top" >
+
+### Backend  
+
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,redis,kafka,docker,jest,graphql,aws,linux,bash,grafana,prometheus,sentry&perline=5">
+</td><td valign="top" >
+
+### Mobile  
+
+<div>  
+<ul>
+<li>React Native</li>
+<li>React-Navigation</li>
+<li>Redux</li>
+<li>Expo</li>
+</ul>
+</td><td valign="top" >
+
+### Web3  
+
+<div>  
+<ul>
+<li>Ethers</li>
+<li>Walletconnect V2, Web3wallet</li>
+<li>Wagmi</li>
+<li>Web3React</li>
+<li>Solidity</li>
+<li>Geth</li>
+</ul>
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
 
 ## &#x270d; Blog & Writing
 
@@ -43,9 +102,8 @@ I'm a versatile software engineer with over 6 years of experience, skilled in bo
 - [How to Escape the Try-Catch Hell](https://javascript.plainenglish.io/escaping-the-try-catch-hell-176884be4ff2?source=rss-75b8551cab97------2)
 - [Benchmark Javascript easily](https://medium.com/@alexcambose/benchmark-javascript-easily-6fdb8d541648?source=rss-75b8551cab97------2)
 - [How JWT works? The implementation](https://javascript.plainenglish.io/how-jwt-works-in-depth-354cb5dc360d?source=rss-75b8551cab97------2)
-- [How JWT works — in depth](https://medium.com/swlh/how-jwt-works-in-depth-604c93ec20a4?source=rss-75b8551cab97------2)
-- [Provably fair system in javascript](https://medium.com/@alexcambose/provably-fair-system-in-javascript-6457e028d2aa?source=rss-75b8551cab97------2)
-- [Creating a parallax effect with Motus](https://medium.com/@alexcambose/creating-a-parallax-effect-with-motus-af89bdc3ce1a?source=rss-75b8551cab97------2)
-- [JS offsetTop property is not great and here is why](https://medium.com/@alexcambose/js-offsettop-property-is-not-great-and-here-is-why-b79842ef7582?source=rss-75b8551cab97------2)
-- [React Hooks in 3 minutes](https://medium.com/@alexcambose/tldr-of-react-hooks-a994d0d44883?source=rss-75b8551cab97------2)
 <!-- BLOG-POST-LIST:END -->
+
+# 🚀 Let's Connect and Build Together! 🦄 
+
+Contact me alexcambose1@gmail.com
