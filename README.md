@@ -95,7 +95,6 @@ The technologies I'm proficient with:
 
 
 ## &#x270d; Blog & Writing
-
 <!-- BLOG-POST-LIST:START -->
 - [Why are junior developers essential in a team?](https://medium.com/swlh/why-are-junior-developers-essential-in-a-team-5442e4623051?source=rss-75b8551cab97------2)
 - [Sentry tracing decorator in Typescript](https://javascript.plainenglish.io/sentry-tracing-decorator-in-typescript-6d9607858ece?source=rss-75b8551cab97------2)
