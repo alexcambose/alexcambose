@@ -43,4 +43,9 @@ I'm a versatile software engineer with over 6 years of experience, skilled in bo
 - [How to Escape the Try-Catch Hell](https://javascript.plainenglish.io/escaping-the-try-catch-hell-176884be4ff2?source=rss-75b8551cab97------2)
 - [Benchmark Javascript easily](https://medium.com/@alexcambose/benchmark-javascript-easily-6fdb8d541648?source=rss-75b8551cab97------2)
 - [How JWT works? The implementation](https://javascript.plainenglish.io/how-jwt-works-in-depth-354cb5dc360d?source=rss-75b8551cab97------2)
+- [How JWT works — in depth](https://medium.com/swlh/how-jwt-works-in-depth-604c93ec20a4?source=rss-75b8551cab97------2)
+- [Provably fair system in javascript](https://medium.com/@alexcambose/provably-fair-system-in-javascript-6457e028d2aa?source=rss-75b8551cab97------2)
+- [Creating a parallax effect with Motus](https://medium.com/@alexcambose/creating-a-parallax-effect-with-motus-af89bdc3ce1a?source=rss-75b8551cab97------2)
+- [JS offsetTop property is not great and here is why](https://medium.com/@alexcambose/js-offsettop-property-is-not-great-and-here-is-why-b79842ef7582?source=rss-75b8551cab97------2)
+- [React Hooks in 3 minutes](https://medium.com/@alexcambose/tldr-of-react-hooks-a994d0d44883?source=rss-75b8551cab97------2)
 <!-- BLOG-POST-LIST:END -->
