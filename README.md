@@ -91,9 +91,6 @@ The technologies I'm proficient with:
 
 </td></tr></table>  
 
-<br/>  
-
-
 ## &#x270d; Blog & Writing
 <!-- BLOG-POST-LIST:START -->
 - [Why are junior developers essential in a team?](https://medium.com/swlh/why-are-junior-developers-essential-in-a-team-5442e4623051?source=rss-75b8551cab97------2)
@@ -111,3 +108,5 @@ The technologies I'm proficient with:
 # 🚀 Let's Connect and Build Together! 🦄 
 
 Contact me alexcambose1@gmail.com
+
+[Resume](https://github.com/alexcambose/alexcambose.github.io/blob/master/public/Alexandru_Cambose_Resume.pdf)
