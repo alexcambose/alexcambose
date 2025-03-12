@@ -14,12 +14,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
   <a href="https://www.medium.com/@alexcambose" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23292929?style=for-the-badge&labelColor=000&logo=Medium&link=https://medium.com/@alexcambose/"></a>
-<a href="https://www.facebook.com/alexcambose" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/alexcambose" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://stackoverflow.com/users/alexambose" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
