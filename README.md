@@ -29,16 +29,16 @@ I'm a versatile software engineer with over **6 years** of experience, skilled i
 I thrive on pushing boundaries, embracing new challenges, and constantly learning to stay ahead of tech, web3, and finance trends.
 
 ## 🔥 About me
-* 👨‍💻 6+ years of hands-on experience as a software engineer.
-* 🛠️ Taken on roles as frontend developer, backend developer, mentor, and architect.
+* 👨‍💻 7+ years of hands-on experience as a **software engineer**.
+* 🛠️ Taken on **lead** roles as **frontend** developer, **backend** developer, **mentor**, and **architect**.
 * 🚀 Successfully developed, launched, and maintained numerous projects from scratch.
 * 🖥️ Proficient in frontend technologies: TypeScript/JavaScript, React, Next.js, Redux, Webpack, SCSS, Styled Components, Tailwind CSS, and more.
 * 🌐 Skilled in backend technologies: Node.js, NestJS, Express, PostgreSQL, AWS, Redis, Kafka, GraphQL, and more.
 * ⛓️ Comprehensive experience in 🦄 Web3 technology, blockchain concepts, dApps, smart contracts, and integrating blockchain systems.
-* 📱 Experience with mobile development: React Native, Redux, React Navigation, Expo.
-* 💡 Passionate about solving intricate challenges in finance, web3, and blockchain sectors.
+* 📱 Experience with **mobile development**: React Native, Redux, React Navigation, Expo.
+* 💡 Passionate about solving complex challenges in finance, web3, and blockchain sectors.
 * 🚀 Strong drive to push boundaries, embrace new challenges, and constantly learn.
-* 🤝 Team-oriented and open to collaboration.
+* 🤝 **Team** and **product** oriented.
 * 📨 Contact: alexcambose1@gmail.com
 * 📅 Calendly: https://calendly.com/alexcambose
 
@@ -104,4 +104,4 @@ The technologies I'm proficient with:
 
 Contact me alexcambose1@gmail.com
 
-[Resume](https://github.com/alexcambose/alexcambose.github.io/blob/master/public/Alexandru_Cambose_Resume.pdf)
+[Resume](https://github.com/alexcambose/alexcambose.github.io/blob/master/public/Alexandru_Cambose_Software_Engineer_Resume.pdf)
