@@ -24,7 +24,7 @@
     <a href="https://github.com/alexcambose/alexcambose" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alexcambose/alexcambose?label=profile%20updated&style=flat-square"></a>
 </p>
   
-I'm a versatile software engineer with over **6 years** of experience, skilled in both **front-end** and **back-end** development, with a deep understanding of finance, **web3**, and blockchain. From building, launching, and maintaining projects, to taking on roles as mentor, architect, and team lead, I've mastered a tech stack including React, Next.js, Node.js, NestJS, Web3, and more. 
+I'm a versatile software engineer with over **7 years** of experience, skilled in both **front-end** and **back-end** development, with a deep understanding of finance, **web3**, and blockchain. From building, launching, and maintaining projects, to taking on roles as mentor, architect, and team lead, I've mastered a tech stack including React, Next.js, Node.js, NestJS, Web3, and more. 
 
 I thrive on pushing boundaries, embracing new challenges, and constantly learning to stay ahead of tech, web3, and finance trends.
 
