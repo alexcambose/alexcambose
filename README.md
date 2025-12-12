@@ -89,10 +89,10 @@ The technologies I'm proficient with:
 ## &#x270d; Blog & Writing
 <!-- BLOG-POST-LIST:START -->
 - [Why are junior developers essential in a team?](https://medium.com/swlh/why-are-junior-developers-essential-in-a-team-5442e4623051?source=rss-75b8551cab97------2)
-- [Sentry tracing decorator in Typescript](https://medium.com/@alexcambose/sentry-tracing-decorator-in-typescript-6d9607858ece?source=rss-75b8551cab97------2)
-- [How to Escape the Try-Catch Hell](https://medium.com/@alexcambose/escaping-the-try-catch-hell-176884be4ff2?source=rss-75b8551cab97------2)
+- [Sentry tracing decorator in Typescript](https://javascript.plainenglish.io/sentry-tracing-decorator-in-typescript-6d9607858ece?source=rss-75b8551cab97------2)
+- [How to Escape the Try-Catch Hell](https://javascript.plainenglish.io/escaping-the-try-catch-hell-176884be4ff2?source=rss-75b8551cab97------2)
 - [Benchmark Javascript easily](https://medium.com/@alexcambose/benchmark-javascript-easily-6fdb8d541648?source=rss-75b8551cab97------2)
-- [How JWT works? The implementation](https://medium.com/@alexcambose/how-jwt-works-in-depth-354cb5dc360d?source=rss-75b8551cab97------2)
+- [How JWT works? The implementation](https://javascript.plainenglish.io/how-jwt-works-in-depth-354cb5dc360d?source=rss-75b8551cab97------2)
 - [How JWT works — in depth](https://medium.com/swlh/how-jwt-works-in-depth-604c93ec20a4?source=rss-75b8551cab97------2)
 - [Provably fair system in javascript](https://medium.com/@alexcambose/provably-fair-system-in-javascript-6457e028d2aa?source=rss-75b8551cab97------2)
 - [Creating a parallax effect with Motus](https://medium.com/@alexcambose/creating-a-parallax-effect-with-motus-af89bdc3ce1a?source=rss-75b8551cab97------2)
